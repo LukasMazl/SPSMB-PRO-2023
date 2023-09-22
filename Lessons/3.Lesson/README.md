@@ -4,8 +4,7 @@
 
 - Napište program, který bude mít dvě funkce. Funkci encode a decode. Funkce encode ma na vstupu 2 parametry. Klíč, pomocí kterého je zpráva zašifrována a původní text. Implementuje Vernamovu šifru.
 
-## Domácí úkol
-
+## Bonusová úloha
 Implementace RLE algoritmu. Tento algoritmus je kompresní a umožnuje zmenši objem dat např. u obázku.
 
 Pokud mám tento řetezec "AAABBBCCCCCCD", tak výsledek po aplikování RLE je "3A3B6C1D". Stejně tak je nutné napsat funkci pro dekompresi.
